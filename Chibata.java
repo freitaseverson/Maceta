@@ -4,5 +4,7 @@ public class Chibata {
 		System.out.println("Chibata no balde");
 
 		System.out.println("aaaa");
+
+		System.out.println("bbb");
 	}
 }
