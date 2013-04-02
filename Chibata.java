@@ -6,5 +6,8 @@ public class Chibata {
 		System.out.println("aaaa");
 
 		System.out.println("bbb");
+
+
+		System.out.println("cccc");
 	}
 }
